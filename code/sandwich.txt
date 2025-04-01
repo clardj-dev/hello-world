@@ -1,0 +1,8 @@
+estimate: 25 lines
+
+pick bread from bread selection
+take two slices of bread from selected bread bag
+on first slice of bread, squirt mayo and mustard
+then spread with knife
+then add pickles, lettuce, tomato
+on second slice of bread add ham and cheddar cheese
