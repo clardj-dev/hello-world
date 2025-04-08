@@ -1,8 +1,13 @@
-estimate: 25 lines
+estimate: 20 lines
 
-pick bread from bread selection
-take two slices of bread from selected bread bag
-on first slice of bread, squirt mayo and mustard
-then spread with knife
-then add pickles, lettuce, tomato
-on second slice of bread add ham and cheddar cheese
+define: bread bag,
+...jiffy brand easy spread peanut butter as peanut butter 
+...welch's easy spread grape jam as grape jam
+...butter knife
+take two slices of bread from the bread bag
+ndame the first slice of bread slice a and name the second slice of bread slice b
+on one side of slice a, squirt peanut butter, 
+then spread peanut butter across slice a with the butter knife
+on one side of slice b, squirt grape jam, 
+then spread spread grape jam across slice b with the butter knife
+place the side of slice a with peanut butter on top of the side of slice b with jam 
